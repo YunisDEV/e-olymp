@@ -4,7 +4,6 @@
 #include <algorithm>
 using namespace std;
 
-
 struct COMPARSION{
   inline bool operator() (const vector<int> p1,const vector<int> p2){
     return min(p1[0],p2[1]) < min(p2[0],p1[1]);
