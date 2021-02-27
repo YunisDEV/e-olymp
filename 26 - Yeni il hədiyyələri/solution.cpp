@@ -30,7 +30,6 @@ int main() {
   sort(pr.begin(),pr.end(), COMPARSION());
 
   int result=0,a=0;
-
   for(int i=0;i<pr.size();++i){
     a+=pr[i][0];
     result = max(result,a) + pr[i][1];
