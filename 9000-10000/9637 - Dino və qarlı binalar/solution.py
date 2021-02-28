@@ -1,2 +1,3 @@
 a,b = map(int,input().split(' '))
-print(b-sum([i+1 for i in range(b-a)]))
+sum = (1+b-a)*(b-a)/2
+print(int(b-sum))
