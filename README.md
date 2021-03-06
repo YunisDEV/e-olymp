@@ -1,6 +1,9 @@
 # <img width="20" src="eolymp.png"> E-olymp həlləri
 Siz bu repo'da e-olymp.com'da olan bəzi məsələlərin həllərini tapa bilərsiniz.
 
+## Həllərin siyahısı
+Həllərin siyahısına [SOLUTIONS.md](https://github.com/YunisDEV/e-olymp/blob/master/SOLUTIONS.md) faylında baxa bilərsiniz.
+
 ## Dəstək
 
 Əgər siz də bu repo'ya öz məsələ həllərinizi əlavə edərək dəstək olmaq istəyirsinizsə, aşağıdakı addımları izləyərək edə bilərsiniz:
