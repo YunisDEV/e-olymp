@@ -1,9 +1,10 @@
 ## Həllər
-|Adı|C++|Python|Javascript|
-|---|---|---|---|
+|Adı|C++|Python|Javascript| Go |
+|---|---|---|---|---|
 |1 - Sadə məsələ  | [solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/1%20-%20Sad%C9%99%20m%C9%99s%C9%99l%C9%99/solution.cpp)  | [solution.py](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/1%20-%20Sad%C9%99%20m%C9%99s%C9%99l%C9%99/solution.py)   | [solution.js](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/1%20-%20Sad%C9%99%20m%C9%99s%C9%99l%C9%99/solution.js)   |
 | 2 - Rəqəmlər  | [solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/2%20-%20R%C9%99q%C9%99ml%C9%99r/solution.cpp)  |  [solution.py](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/2%20-%20R%C9%99q%C9%99ml%C9%99r/solution.py)  | &mdash; |
 |  4 - İki çevrə | [solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/4%20-%20%C4%B0ki%20%C3%A7evr%C9%99/solution.cpp)   | [solution.py](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/4%20-%20%C4%B0ki%20%C3%A7evr%C9%99/solution.py)   |&mdash; |
+|19 - Simmetriya dərəcəsi| &mdash; | &mdash; | &mdash; | [solution.go]()
 |26 - Yeni il hədiyyələri|[solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/26%20-%20Yeni%20il%20h%C9%99diyy%C9%99l%C9%99ri/solution.cpp) | [solution.py](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/26%20-%20Yeni%20il%20h%C9%99diyy%C9%99l%C9%99ri/solution.py) |&mdash;|
 |29 - Palindromluq dərəcəsi| [solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/29%20-%20Palindromluq%20d%C9%99r%C9%99c%C9%99si/solution.cpp) |[solution.py](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/29%20-%20Palindromluq%20d%C9%99r%C9%99c%C9%99si/solution.py)|&mdash;|
 |66 - Direktorun qəbulunda|[solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/0000-0999/66%20-%20Direktorun%20q%C9%99bulunda/solution.cpp)|&mdash;|&mdash;|
