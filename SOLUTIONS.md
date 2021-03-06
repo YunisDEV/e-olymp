@@ -23,3 +23,4 @@
 |9639 - Dinonun böyük massivi|[solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/9000-9999/9639%20-%20Dinonun%20b%C3%B6y%C3%BCk%20massivi/solution.cpp)|[solution.py](https://github.com/YunisDEV/e-olymp/blob/master/9000-9999/9639%20-%20Dinonun%20b%C3%B6y%C3%BCk%20massivi/solution.py)|&mdash;|&mdash;|
 |9640 - Dino və putalar|[solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/9000-9999/9640%20-%20Dino%20v%C9%99%20putalar/solution.cpp)|[solution.py](https://github.com/YunisDEV/e-olymp/blob/master/9000-9999/9640%20-%20Dino%20v%C9%99%20putalar/solution.py)|&mdash;|&mdash;|
 |10029 - Corona2020|[solution.cpp](https://github.com/YunisDEV/e-olymp/blob/master/10000%2B/10029%20-%20Corona2020/solution.cpp)|&mdash;|&mdash;|&mdash;|
+|10379 - Maximum Frequency Stack|[solution.cpp]()|&mdash;|&mdash;|&mdash;|
