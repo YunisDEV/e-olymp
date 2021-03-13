@@ -1,4 +1,4 @@
-# <img width="20" src="eolymp.png"> E-olymp həlləri
+# <img width="20px" src="eolymp.png"> E-olymp həlləri
 Siz bu repo'da e-olymp.com'da olan bəzi məsələlərin həllərini tapa bilərsiniz.
 
 ## Həllərin siyahısı
